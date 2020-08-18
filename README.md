@@ -36,12 +36,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- item 1
-- item 2
-- item 3
-- item 4
-- item 5
-- item 6
+1. item 1
+2. item 2
+3. item 3
+4. item 4
+5. item 5
+6. item 6
 
 <hr>
 
